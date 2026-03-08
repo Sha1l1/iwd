@@ -1,0 +1,5 @@
+[Blacklist]
+InitialTimeout=10
+
+[Scan]
+DisableMacAddressRandomization=true
